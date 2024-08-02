@@ -1,8 +1,7 @@
 ## Welcome to SkillForge Academy!
 
 ### Discover the Path to Mastery
-
-At SkillForge Academy, we offer an unparalleled opportunity to gain hands-on experience in your chosen field. Whether you're passionate about software development, marketing, or video editing, our structured learning and workflow ensure you develop the skills employers are looking for, all while working on real-world projects.
+Welcome to SkillForge Academy, an innovative solution designed for aspiring students looking to gain hands-on experience in real-world projects. At SkillForge, you'll join a community of learners and mentors across various fields. You'll work on exciting projects, learn cutting-edge technologies, and develop the skills needed to succeed in today's competitive job market. Under the guidance of experienced mentors, you'll participate in a structured, real-world work environment that mimics the dynamics of a professional setting.
 
 ### Our Learning and Workflow Process
 
@@ -10,32 +9,32 @@ At SkillForge Academy, we offer an unparalleled opportunity to gain hands-on exp
 
 **1. Onboarding:**
    - **Skill Assessment:** We'll start by identifying your current skill level to tailor your learning experience.
-   - **Learning Path:** You'll receive a customized learning plan filled with the best resources and projects to help you grow.
+   - **Learning Path:** You'll receive a customized learning plan to help you grow.
 
 **2. Self-Directed Learning:**
-   - **Online Resources:** Access a curated list of tutorials and courses to build your knowledge.
-   - **Mini Projects:** Apply what you've learned through small, hands-on projects.
-   - **Mentor Check-Ins:** Meet regularly with mentors for guidance and progress tracking.
+   - **Mini Projects:** Apply what you've learned through small projects.
+   - **Mentor Check-Ins:** Meet regularly with mentors for progress tracking.
 
 #### Team Collaboration Phase
 
 **3. Team Formation:**
-   - **Group Assignment:** Join a small team in your field where you'll collaborate with like-minded peers.
-   - **Project Assignment:** Dive into a team project, working together on an assigned project idea.
-   - **Mentorship:** Benefit from regular check-ins with mentors to track progress, meet deadlines, and assess your performance and attitude.
+   - **Group Assignment:** Join a small team with like-minded peers in your field.
+   - **Project Assignment:** Work together on an assigned project idea.
+   - **Mentorship:** Benefit from regular check-ins with mentors to meet deadlines, and assess your performance and attitude.
 
 **4. Project Management:**
-   - **Task Allocation:** Utilize project management tools like Trello or Jira to organize and manage tasks.
-   - **Regular Updates:** Participate in daily or weekly team meetings to share updates and track progress.
+   - **Task Management:** Utilize Trello to organize and manage tasks.
+   - **Version Control:** Use GitHub for version control to track changes and manage contributions.
+   - **Communication:** Hold regular team meetings on Discord to address issues and plan steps.
 
 **5. Peer Reviews and Feedback:**
-   - **Code Reviews:** Submit your work for review by peers and mentors to ensure quality and receive constructive feedback.
-   - **Continuous Improvement:** Use the feedback to refine your skills and enhance your work.
+   - **Work Reviews:** Submit your work for review by peers and mentors to ensure quality and receive constructive feedback.
+   - **Skill Advancement:** Continue to follow advanced learning paths for ongoing personal and professional development.
 
-#### Elite Team Selection and Real-World Project Phase
+#### Real-World Project Phase
 
 **6. Elite Team Selection:**
-   - **Selection Criteria:** Based on performance, attitude, and progress, select the top members from each field to form an elite team.
+   - **Selection Criteria:** Based on performance, attitude, and progress, best members from each field will get selected.
    - **Team Integration:** Collaborate with elite members from different fields, forming interdisciplinary teams.
 
 **7. Real-World Project:**
@@ -45,13 +44,7 @@ At SkillForge Academy, we offer an unparalleled opportunity to gain hands-on exp
      - **Planning:** Define project goals, scope, and timelines.
      - **Design:** Create design mockups and marketing strategies.
      - **Implementation:** Develop the project incrementally, using Agile methodologies.
-     - **Testing:** Conduct thorough testing to ensure quality and functionality.
-     - **Launch:** Deploy the project and implement marketing strategies.
+     - **Testing:** Conduct testing to ensure quality and functionality.
+     - **Launch:** Deploy the project and ensure safety and performance.   
 
-#### Continuous Growth
-
-**8. Feedback and Evaluation:**
-   - **Regular Reviews:** Regularly gather feedback from mentors and peers to assess your progress.
-   - **Skill Advancement:** Continue to follow advanced learning paths for ongoing personal and professional development.
-
-Join SkillForge Academy today and embark on a transformative journey where learning meets real-world experience!
+Join SkillForge Academy :)
