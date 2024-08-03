@@ -49,7 +49,12 @@ Welcome to SkillForge Academy, an innovative solution designed for aspiring stud
 
 Join SkillForge Academy :)
 
-# GitHub Management Guide
+#
+### GitHub Management Guide
 
-For detailed GitHub management guidelines, please refer to the [GitHub Management Guide](Github Rules.md).
+For detailed GitHub management guidelines, please refer to the [GitHub Management Guide](https://github.com/WissemHajbi/SkillForge/blob/main/Github%20Rules).
+
+### Fields
+
+Here are the potential fields and a brief description of each [Potential Fields](https://github.com/WissemHajbi/SkillForge/blob/main/Potential%20Fields).
 
