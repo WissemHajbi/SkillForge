@@ -48,3 +48,8 @@ Welcome to SkillForge Academy, an innovative solution designed for aspiring stud
      - **Launch:** Deploy the project and ensure safety and performance.   
 
 Join SkillForge Academy :)
+
+# GitHub Management Guide
+
+For detailed GitHub management guidelines, please refer to the [GitHub Management Guide](Github Rules.md).
+
